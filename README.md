@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 About me
+I am a data analytics consultant now focused more on data and analytics engineering. 
 
 <!--
 **LorenzNacilla/LorenzNacilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
