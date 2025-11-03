@@ -1,5 +1,12 @@
 ## 👋 About me
-I am a data analytics consultant now focused more on data and analytics engineering. 
+
+I am a data analytics consultant with a focus more on data & analytics engineering.
+
+## Experience
+
+Throughout my time with the Information Lab, I have worked across several companies & clients from various industries building out data solutions with tools such as Tableau, Alteryx, SQL, GCP.
+
+## Certifications
 
 <!--
 **LorenzNacilla/LorenzNacilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
