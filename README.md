@@ -7,7 +7,7 @@ I am a data analytics consultant with a focus more on data & analytics engineeri
 Throughout my time with the Information Lab, I have worked across several companies & clients from various industries building out data solutions with tools such as Tableau, Alteryx, SQL, GCP.
 
 ## ✅ Certifications
-[![Tableau Certified Data Analyst]<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3985ed07-5db3-40d0-a0fa-e5fd6ef8a0b9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)](https://www.credly.com/badges/3985ed07-5db3-40d0-a0fa-e5fd6ef8a0b9/public_url)
+[![Tableau Certified Data Analyst](https://images.credly.com/size/680x680/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png)](https://www.credly.com/badges/3985ed07-5db3-40d0-a0fa-e5fd6ef8a0b9/public_url)
 <!--
 **LorenzNacilla/LorenzNacilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
