@@ -25,15 +25,15 @@ Throughout my time with the Information Lab, I have worked across several compan
 </a>
 
 <a href="https://credentials.getdbt.com/0816cd94-9d24-41f1-afed-2787a24962bf#acc.1qXVIC8i">
-  <img src="https://api.accredible.com/v1/frontend/credential_embed_image/135911304" alt="dbt Fundamentals" width="110">
+  <img src="https://templates.images.credential.net/16377649693790199922879811460604.png" alt="dbt Fundamentals" width="110">
 </a>
 
 <a href="https://achieve.snowflake.com/cb3f1f44-ec56-4139-91ed-a208c02f7ca3#acc.JxOAMEDm">
-  <img src="https://api.accredible.com/v1/frontend/credential_embed_image/136474150" alt="Hands-On Essentials: Data Warehousing Workshop" width="110">
+  <img src="https://templates.images.credential.net/169712375586692777710499885412.png" alt="Hands-On Essentials: Data Warehousing Workshop" width="110">
 </a>
 
 <a href="https://achieve.snowflake.com/4748f34d-5178-49fa-8940-75509d87b391#acc.spOHJ4xN">
-  <img src="https://api.accredible.com/v1/frontend/credential_embed_image/136785749" alt="Hands-On Essentials: Collaboration, Marketplace & Cost Estimation Workshop" width="110">
+  <img src="https://templates.images.credential.net/16971233885374075532896130114336.png" alt="Hands-On Essentials: Collaboration, Marketplace & Cost Estimation Workshop" width="110">
 </a>
 
 <!--
