@@ -44,6 +44,10 @@ Throughout my time with the Information Lab, I have worked across several compan
   <img src="https://templates.images.credential.net/1697123705389390745689328350716.png" alt="Hands-On Essentials: Data Lake Workshop" width="110">
 </a>
 
+<a href="https://achieve.snowflake.com/b0a5533b-5903-4c5a-a61f-86ab058ec6ec#acc.uL2pTZzo">
+  <img src="https://templates.images.credential.net/16971234659869445259534027466553.png" alt="Hands-On Essentials: Data Engineering Workshop" width="110">
+</a>
+
 <!--
 **LorenzNacilla/LorenzNacilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
